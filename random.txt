@@ -1,0 +1,34 @@
+參數為 timeRange60   spread20.0   markup1.0   laterNumber1   multiple10   firstProfit5   secondProfit6   maxLoss50
+pattern共出現28次  其中2根量大於前1根的情況有21次 28 次中成交14次 總獲利 57.74000000000024 獲利次數 13 虧損次數 1 勝率92.85714285714286%  達到最大虧損0.0次
+參數為 timeRange60   spread20.0   markup1.0   laterNumber1   multiple10   firstProfit5   secondProfit7   maxLoss50
+pattern共出現28次  其中2根量大於前1根的情況有21次 28 次中成交14次 總獲利 57.94500000000039 獲利次數 13 虧損次數 1 勝率92.85714285714286%  達到最大虧損0.0次
+參數為 timeRange60   spread20.0   markup1.0   laterNumber1   multiple10   firstProfit5   secondProfit8   maxLoss50
+pattern共出現28次  其中2根量大於前1根的情況有21次 28 次中成交14次 總獲利 62.44500000000039 獲利次數 13 虧損次數 1 勝率92.85714285714286%  達到最大虧損0.0次
+參數為 timeRange60   spread20.0   markup1.0   laterNumber1   multiple10   firstProfit5   secondProfit9   maxLoss50
+pattern共出現28次  其中2根量大於前1根的情況有21次 28 次中成交14次 總獲利 66.94500000000039 獲利次數 13 虧損次數 1 勝率92.85714285714286%  達到最大虧損0.0次
+參數為 timeRange60   spread20.0   markup1.0   laterNumber1   multiple10   firstProfit5   secondProfit10   maxLoss50
+pattern共出現28次  其中2根量大於前1根的情況有21次 28 次中成交14次 總獲利 53.27000000000032 獲利次數 12 虧損次數 2 勝率85.71428571428571%  達到最大虧損0.0次
+參數為 timeRange60   spread20.0   markup1.0   laterNumber1   multiple10   firstProfit5   secondProfit11   maxLoss50
+pattern共出現28次  其中2根量大於前1根的情況有21次 28 次中成交14次 總獲利 56.77000000000032 獲利次數 12 虧損次數 2 勝率85.71428571428571%  達到最大虧損0.0次
+參數為 timeRange60   spread20.0   markup1.0   laterNumber1   multiple10   firstProfit5   secondProfit12   maxLoss50
+pattern共出現28次  其中2根量大於前1根的情況有21次 28 次中成交14次 總獲利 57.665000000000305 獲利次數 12 虧損次數 2 勝率85.71428571428571%  達到最大虧損0.0次
+參數為 timeRange60   spread20.0   markup1.0   laterNumber1   multiple10   firstProfit5   secondProfit13   maxLoss50
+pattern共出現28次  其中2根量大於前1根的情況有21次 28 次中成交14次 總獲利 41.595000000000255 獲利次數 11 虧損次數 3 勝率78.57142857142857%  達到最大虧損0.0次
+參數為 timeRange60   spread20.0   markup1.0   laterNumber1   multiple10   firstProfit5   secondProfit14   maxLoss50
+pattern共出現28次  其中2根量大於前1根的情況有21次 28 次中成交14次 總獲利 44.095000000000255 獲利次數 11 虧損次數 3 勝率78.57142857142857%  達到最大虧損0.0次
+參數為 timeRange60   spread20.0   markup1.0   laterNumber1   multiple10   firstProfit5   secondProfit15   maxLoss50
+pattern共出現28次  其中2根量大於前1根的情況有21次 28 次中成交14次 總獲利 46.595000000000255 獲利次數 11 虧損次數 3 勝率78.57142857142857%  達到最大虧損0.0次
+參數為 timeRange60   spread20.0   markup1.0   laterNumber1   multiple10   firstProfit5   secondProfit16   maxLoss50
+pattern共出現28次  其中2根量大於前1根的情況有21次 28 次中成交14次 總獲利 49.095000000000255 獲利次數 11 虧損次數 3 勝率78.57142857142857%  達到最大虧損0.0次
+參數為 timeRange60   spread20.0   markup1.0   laterNumber1   multiple10   firstProfit5   secondProfit17   maxLoss50
+pattern共出現28次  其中2根量大於前1根的情況有21次 28 次中成交14次 總獲利 51.595000000000255 獲利次數 11 虧損次數 3 勝率78.57142857142857%  達到最大虧損0.0次
+參數為 timeRange60   spread20.0   markup1.0   laterNumber1   multiple10   firstProfit5   secondProfit18   maxLoss50
+pattern共出現28次  其中2根量大於前1根的情況有21次 28 次中成交14次 總獲利 50.275000000000205 獲利次數 11 虧損次數 3 勝率78.57142857142857%  達到最大虧損0.0次
+參數為 timeRange60   spread20.0   markup1.0   laterNumber1   multiple10   firstProfit5   secondProfit19   maxLoss50
+pattern共出現28次  其中2根量大於前1根的情況有21次 28 次中成交14次 總獲利 52.275000000000205 獲利次數 11 虧損次數 3 勝率78.57142857142857%  達到最大虧損0.0次
+參數為 timeRange60   spread20.0   markup1.0   laterNumber1   multiple10   firstProfit6   secondProfit7   maxLoss50
+pattern共出現28次  其中2根量大於前1根的情況有21次 28 次中成交14次 總獲利 63.00500000000034 獲利次數 13 虧損次數 1 勝率92.85714285714286%  達到最大虧損0.0次
+參數為 timeRange60   spread20.0   markup1.0   laterNumber1   multiple10   firstProfit6   secondProfit8   maxLoss50
+pattern共出現28次  其中2根量大於前1根的情況有21次 28 次中成交14次 總獲利 67.50500000000034 獲利次數 13 虧損次數 1 勝率92.85714285714286%  達到最大虧損0.0次
+參數為 timeRange30   spread15.0   markup3.0   laterNumber5   multiple9   firstProfit8   secondProfit15   maxLoss50
+pattern共出現54次  其中2根量大於前1根的情況有37次 54 次中成交28次 總獲利 157.8250000000001 獲利次數 24 虧損次數 4 勝率85.71428571428571%  達到最大虧損2.0次  把產生虧損的單子全部相加所得的虧損總額為-59.01500000000004點
